@@ -27,8 +27,7 @@ $ C:\User\your-flie> code .
 ## Contributor
 
 * Author
-- Manh
+- The ['Duc Manh'](https://www.facebook.com/)
 * Contributor
-- Mr. Nam Tran
+- The ['Mr. Nam Tran'](https://www.facebook.com/tranducnamtoan)
 
-Copyright 2024
