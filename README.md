@@ -14,14 +14,15 @@ This is a Demo Project made by Manh
 ## Installation
 
 Clone this repository on your machine
-'''bash 
-$ git clone https://github.com/ducmanh1801/DemoRepo
+```bash ```
+$ git clone https://github.com/ducmanh1801/DemoRepo 
+
 
 ## Execution
 
 * Open teminal
-* '''bash
-$ C:\User\your-flie> code .
+```bash```
+$ C:\User\your-flie> code 
 > **NOTICE: ** This is example for window
 
 ## Contributor
