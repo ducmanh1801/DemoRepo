@@ -22,7 +22,7 @@ Clone this repository on your machine
 
 * Open teminal
 
-```$ C:\User\your-flie> code ```
+```$ C:\User\your-file> code ```
 > **NOTICE: ** This is example for window
 
 ## Contributor
