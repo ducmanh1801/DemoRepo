@@ -1,6 +1,7 @@
 import math
 from Abstract import Operation
 
+#ham mu
 class Power(Operation):
     def __init__(self, a, b):
         self.a = a
@@ -9,6 +10,7 @@ class Power(Operation):
     def execute(self):
         return math.pow(self.a, self.b)
 
+#ham can bac hai
 class SquareRoot(Operation):
     def __init__(self, a):
         self.a = a
@@ -18,6 +20,7 @@ class SquareRoot(Operation):
             return "Error! Square root of negative number."
         return math.sqrt(self.a)
 
+#ham giai thua
 class Factorial(Operation):
     def __init__(self, a):
         self.a = a
@@ -27,6 +30,7 @@ class Factorial(Operation):
             return "Error! Factorial of negative number."
         return math.factorial(self.a)
 
+#ham loga
 class Logarithm(Operation):
     def __init__(self, a):
         self.a = a
