@@ -14,20 +14,20 @@ This is a Demo Project made by Manh
 ## Installation
 
 Clone this repository on your machine
-'''shell
+'''bash 
 $ git clone https://github.com/ducmanh1801/DemoRepo
 
 ## Execution
 
 * Open teminal
-* '''shell
+* '''bash
 $ C:\User\your-flie> code .
 > **NOTICE: ** This is example for window
 
 ## Contributor
 
 * Author
-- [Duc Manh](https://www.facebook.com/)
+ [Duc Manh](https://www.facebook.com/)
 * Contributor
-- [Mr. Nam Tran](https://www.facebook.com/tranducnamtoan)
+ [Mr. Nam Tran](https://www.facebook.com/tranducnamtoan)
 
