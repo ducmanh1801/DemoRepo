@@ -3,27 +3,32 @@
 [![Build Status](https://travis-ci.org/ArduPilot/ardupilot.svg?branch=master)](https://travis-ci.org/ArduPilot/ardupilot)
 [![Coverage Status](https://coveralls.io/repos/github/ArduPilot/ardupilot/badge.svg?branch=master)](https://coveralls.io/github/ArduPilot/ardupilot?branch=master)
 
-ArduPilot is a open source autopilot system supporting multi-rotor, fixed wing, and hybrid vehicles.
+This is a Demo Project made by Manh
 
-### Features
+## Features
 
-* Support for multiple vehicle types
-* Advanced navigation and stabilization
-* Support for various sensors and peripherals
+* This is a simple project
+* Apply to calculate 
 
-### Getting Started
 
-* [Install ArduPilot](docs/installation.md)
-* [Configure your vehicle](docs/configuration.md)
+## Installation
 
-### Documentation
+Clone this repository on your machine
+'''shell
+$ git clone https://github.com/ducmanh1801/DemoRepo
 
-* [User Manual](docs/user_manual.md)
-* [Developer Guide](docs/developer_guide.md)
+## Execution
 
-### Community
+* Open teminal
+* '''shell
+$ C:\User\your-flie> code .
+> **NOTICE: ** This is example for window
 
-* [Join our discussion forum](https://discuss.ardupilot.org/)
-* [Contribute to the project](CONTRIBUTING.md)
+## Contributor
 
-Copyright 2019 ArduPilot
+* Author
+- Manh
+* Contributor
+- Mr. Nam Tran
+
+Copyright 2024
